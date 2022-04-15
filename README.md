@@ -21,4 +21,4 @@ Challenges I faced in this project:
 
  Finally I hope you like it
  
- you can see online this project with top right link (in Vercel)
+ you can see online this project with top right link.
